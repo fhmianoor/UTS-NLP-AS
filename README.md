@@ -38,7 +38,7 @@ pip install -r requirements.txt
 1. Clone repository ini:
 
 ```bash
-git clone https://github.com/username/repo-analisis-sentimen.git
+git clone https://github.com/fhmianoor/UTS-NLP-AS.git
 cd repo-analisis-sentimen
 ```
 ## Classification Report
