@@ -40,3 +40,19 @@ pip install -r requirements.txt
 ```bash
 git clone https://github.com/username/repo-analisis-sentimen.git
 cd repo-analisis-sentimen
+```
+## Classification Report
+
+| Label                  | Precision | Recall | F1-Score | Support |
+|------------------------|-----------|--------|----------|---------|
+| Anxiety                | 0.81      | 0.80   | 0.81     | 779     |
+| Bipolar                | 0.86      | 0.71   | 0.78     | 580     |
+| Depression             | 0.71      | 0.73   | 0.72     | 3100    |
+| Normal                 | 0.87      | 0.95   | 0.91     | 3327    |
+| Personality Disorder   | 0.67      | 0.60   | 0.63     | 248     |
+| Stress                 | 0.72      | 0.48   | 0.58     | 557     |
+| Suicidal               | 0.67      | 0.64   | 0.66     | 2018    |
+| **Accuracy**           |           |        | 0.77     | 10609   |
+| **Macro Avg**          | 0.76      | 0.70   | 0.73     | 10609   |
+| **Weighted Avg**       | 0.77      | 0.77   | 0.77     | 10609   |
+
