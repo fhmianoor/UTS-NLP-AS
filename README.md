@@ -23,8 +23,8 @@ Dataset dapat berupa komentar pengguna dengan label Status `Normal`, `Depression
 ---
 
 python -m venv venv
-source venv/bin/activate   # Linux/Mac
-venv\Scripts\activate      # Windows
+- source venv/bin/activate   # Linux/Mac
+- venv\Scripts\activate      # Windows
 
 ---
 
